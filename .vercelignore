@@ -1,0 +1,15 @@
+# Mídias locais não utilizadas na LP (já hospedadas em CDN)
+*.mp4
+*.mov
+*.jfif
+FIG*.png
+ingles-30dias-checkout.jpg
+
+# Documentos e textos
+*.txt
+*.py
+
+# Git & Logs
+.git
+.gitignore
+README.md

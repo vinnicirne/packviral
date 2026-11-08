@@ -1,0 +1,12 @@
+# Mídias pesadas (evitar erro de limite no GitHub)
+*.mp4
+*.mov
+*.jfif
+FIG*.png
+ingles-30dias-checkout.jpg
+
+# Vercel
+.vercel
+
+# Textos auxiliares
+*.txt
